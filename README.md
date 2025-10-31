@@ -16,7 +16,7 @@ Assess users’ **environmental awareness** and **engagement**.
 Use **PCA** and **logistic regression** to find factors affecting acceptance.  
 Apply **cluster** and **discriminant analysis** + **collaborative filtering** to segment users and recommend personalized green marketing plans.  
 
-**🔄 V. Frameworks**
+**🔄 V. Frameworks**  
 **VBN Theory:** explains users’ psychological motivations.  
 **FASCT Model:**  
 *Fertility* – expand green user base.  
