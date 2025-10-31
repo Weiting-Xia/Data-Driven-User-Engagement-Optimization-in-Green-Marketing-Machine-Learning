@@ -1,10 +1,10 @@
 ### Taobao-Environmental-Marketing-Analysis
 **🌱 I. Background**
-Under China’s green development push, **IdleFish** launched the **“Low-Carbon Double 11”** campaign.(IdleFish is the largest second-hand trading platform in China)
+/Under China’s green development push, **IdleFish** launched the **“Low-Carbon Double 11”** campaign.(IdleFish is the largest second-hand trading platform in China)
 However, due to **weak promotion** and **limited channels**, it failed to attract traffic or engage users effectively.
 
 **🎯 II. Objective**
-Analyze issues in IdleFish’s green marketing, identify **key participation factors**, and propose **strategies** to improve user engagement and support sustainable growth.
+/Analyze issues in IdleFish’s green marketing, identify **key participation factors**, and propose **strategies** to improve user engagement and support sustainable growth.
 
 **📚 III. Methodology**
 Literature review → build **VBN** & **FASCT** models.
