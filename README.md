@@ -19,6 +19,7 @@
 <p align="center">
   <img src="images/User%20Segmentation%202.png" width="48%" />
 </p>
+
 **🌱 I. Background**  
 Under China’s green development push, **IdleFish** launched the **“Low-Carbon Double 11”** campaign.(IdleFish is the largest second-hand trading platform in China)
 However, due to **weak promotion** and **limited channels**, it failed to attract traffic or engage users effectively.
