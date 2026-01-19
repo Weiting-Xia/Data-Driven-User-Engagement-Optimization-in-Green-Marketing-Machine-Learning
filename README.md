@@ -2,22 +2,19 @@
 **🖼️ Project Gallery**  
 
 <p align="center">
-  <img src="images/Chi-square%20test.png" width="48%" />
-  <img src="images/Collaborative%20Filtering%20Algorithm.png" width="48%" />
-</p>
-
-<p align="center">
-  <img src="images/Discriminant%20Analysis.png" width="48%" />
-  <img src="images/Logistic%20Regression.png" width="48%" />
-</p>
-
-<p align="center">
-  <img src="images/PCA-new.png" width="48%" />
+  <img src="images/User%20Segmentation%202.png" width="48%" />
   <img src="images/User%20Segmentation%201.png" width="48%" />
 </p>
-
 <p align="center">
-  <img src="images/User%20Segmentation%202.png" width="48%" />
+   <img src="images/Chi-square%20test.png" width="48%" />
+</p>
+<p align="center">
+  <img src="images/Logistic%20Regression.png" width="48%" />
+  <img src="images/PCA-new.png" width="48%" />
+</p>
+<p align="center">
+  <img src="images/Discriminant%20Analysis.png" width="48%" />
+  <img src="images/Collaborative%20Filtering%20Algorithm.png" width="48%" />
 </p>
 
 **🌱 I. Background**  
