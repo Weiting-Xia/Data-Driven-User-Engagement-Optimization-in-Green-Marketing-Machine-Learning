@@ -18,11 +18,10 @@
 </p>
 
 **🌱 I. Background**  
-Under China’s green development push, **IdleFish** launched the **“Low-Carbon Double 11”** campaign.(IdleFish is the largest second-hand trading platform in China)
-However, due to **weak promotion** and **limited channels**, it failed to attract traffic or engage users effectively.
+IdleFish, a large second-hand trading platform, launched a low-carbon themed marketing campaign. However, limited promotion effectiveness and channel reach resulted in low user traffic and weak engagement.
 
 **🎯 II. Objective**  
-/Analyze issues in IdleFish’s green marketing, identify **key participation factors**, and propose **strategies** to improve user engagement and support sustainable growth.
+Analyze the effectiveness of green marketing initiatives, identify key factors influencing user participation, and propose data-driven strategies to improve engagement and campaign performance.
 
 **📚 III. Methodology**  
 Literature review → build **VBN** & **FASCT** models.  
